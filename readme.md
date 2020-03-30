@@ -2,5 +2,5 @@
 
 How to use
 ```
-swatch-gen.php listinput.txt outputfile servername
+php swatch-gen.php listinput.txt outputfile servername
 ```
