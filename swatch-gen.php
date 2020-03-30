@@ -2,7 +2,7 @@
 set_time_limit(0);
 
 if ($argc != 4) {
-	die("\r\n\033[0;36m-= Swatch Configs Generator =-\r\nUsage: " . $argv[0] . " listinput.txt outputfile servername\033[0;39m\r\n\n");
+	die("\r\n\033[0;36m-= Swatch Config Generator =-\r\nUsage: " . $argv[0] . " listinput.txt outputfile servername\033[0;39m\r\n\n");
 }
 
 echo "\r\n\033[0;36m-=Swatch Config Generator=-\033[0;39m\r\n\n";
